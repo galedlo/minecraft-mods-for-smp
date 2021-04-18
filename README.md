@@ -1,2 +1,4 @@
-# minecraft-mods-for-smp
-dit zijn de mods voor de smp download ze en zet ze in je mods folder
+je moet eerst de fabric downloaden (1.16.5) https://fabricmc.net/use/ dit is de link for fabric download de windows version als je windows hebt en dan moet je de clinet downloaden 
+dan heb je fabric gedownload daarna moet je je mods in je mods folder zetten
+
+als je niet weet hoe je in de mods folder moet komen hier: click op windowskey(homeknop)+ r en dan schrijf je %appdata% daarna klick je op .minecraft dan is er een mods folder en daar moet je all je mods in zetten
